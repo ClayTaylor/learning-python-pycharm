@@ -1,3 +1,5 @@
-friends = ["Dalty", "Andrew", "Jordan", "Caleb", "Sam", "JP"]
-friends[2] = "Bob"
-print(friends[2])
+
+lucky_numbers = [4, 8, 15, 16, 23, 42]
+friends = ["Kevin", "Karen", "Jim", "Oscar", "Toby"]
+friends.remove("Oscar")
+print(friends)
