@@ -1,0 +1,8 @@
+Python Interpreter
+
+A Python Interpreter is an environment where I can execute Python Commands similar to a sand-box environment where I can test out different commands and
+functions in a safe and neautral environment without risk to an existing project.
+
+This can be accessed using the terminal or the CMD prompt (depending on which local machine one is coding on) and by typing 'python'.
+
+This is NOT a place to write serious Python code. This is just a quick and easy way to test out simple code.
